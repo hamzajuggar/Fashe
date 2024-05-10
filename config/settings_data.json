@@ -175,8 +175,8 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/403542254-800x600.jpg",
-              "heading": "Women Collection 2018",
-              "heading_appear": "fadeInDown",
+              "heading": "Juggar House",
+              "heading_appear": "lightSpeedIn",
               "subheading": "New arrivals",
               "subheading_appear": "fadeInUp",
               "slide_link_text": "Shop Now",
